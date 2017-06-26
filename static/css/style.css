@@ -1,0 +1,14 @@
+body{
+	background-color: #F64747;
+	color: white;
+}
+
+
+.recuadro1{
+	background-color: white;
+	color: #F64747;
+	width: 350px;
+	height: 40px;
+	border-radius: 20px;
+}
+
